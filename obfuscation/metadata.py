@@ -3,11 +3,11 @@ from typing import Optional
 METADATA =\
 {
 	'name': 'obfuscation',
-	'description': 'Industry leading face manipulation platform',
-	'version': '3.5.0',
-	'license': 'OpenRAIL-AS',
-	'author': 'Henry Ruhs',
-	'url': 'https://obfuscation.io'
+	'description': 'Industry leading laughing platform',
+	'version': '1.1.0',
+	'license': 'Excellent',
+	'author': 'ManorLord',
+	'url': 'https://meow.io'
 }
 
 

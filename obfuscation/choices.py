@@ -121,7 +121,7 @@ download_provider_set : DownloadProviderSet =\
 		[
 			'https://github.com'
 		],
-		'path': '/obfuscation/obfuscation-assets/releases/download/{base_name}/{file_name}'
+		'path': '/facefusion/facefusion-assets/releases/download/{base_name}/{file_name}'
 	},
 	'huggingface':
 	{
@@ -130,7 +130,7 @@ download_provider_set : DownloadProviderSet =\
 			'https://huggingface.co',
 			'https://hf-mirror.com'
 		],
-		'path': '/obfuscation/{base_name}/resolve/main/{file_name}'
+		'path': '/facefusion/{base_name}/resolve/main/{file_name}'
 	}
 }
 download_providers : List[DownloadProvider] = list(download_provider_set.keys())
