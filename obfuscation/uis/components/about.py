@@ -17,15 +17,15 @@ def render() -> None:
 	[
 		{
 			'translator': translator.get('about.fund'),
-			'url': 'https://fund.facefusion.io'
+			'url': 'https://fund.obfuscation.io'
 		},
 		{
 			'translator': translator.get('about.subscribe'),
-			'url': 'https://subscribe.facefusion.io'
+			'url': 'https://subscribe.obfuscation.io'
 		},
 		{
 			'translator': translator.get('about.join'),
-			'url': 'https://join.facefusion.io'
+			'url': 'https://join.obfuscation.io'
 		}
 	])
 

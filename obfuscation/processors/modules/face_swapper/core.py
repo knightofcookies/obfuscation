@@ -226,7 +226,7 @@ def create_static_model_set(download_scope : DownloadScope) -> ModelSet:
 		{
 			'__metadata__':
 			{
-				'vendor': 'FaceFusion',
+				'vendor': 'obfuscation',
 				'license': 'ResearchRAIL',
 				'year': 2025
 			},
@@ -256,7 +256,7 @@ def create_static_model_set(download_scope : DownloadScope) -> ModelSet:
 		{
 			'__metadata__':
 			{
-				'vendor': 'FaceFusion',
+				'vendor': 'obfuscation',
 				'license': 'ResearchRAIL',
 				'year': 2025
 			},
@@ -286,7 +286,7 @@ def create_static_model_set(download_scope : DownloadScope) -> ModelSet:
 		{
 			'__metadata__':
 			{
-				'vendor': 'FaceFusion',
+				'vendor': 'obfuscation',
 				'license': 'ResearchRAIL',
 				'year': 2025
 			},

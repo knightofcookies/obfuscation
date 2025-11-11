@@ -11,7 +11,7 @@ def init(log_level : LogLevel) -> None:
 
 
 def get_package_logger() -> Logger:
-	return getLogger('facefusion')
+	return getLogger('obfuscation')
 
 
 def debug(message : str, module_name : str) -> None:
